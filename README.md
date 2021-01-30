@@ -28,4 +28,4 @@ Generally, each folder contains two main scripts:
 
 To run scripts that uses brazilian portuguese diceware words, it is needed
 to download the source and add manually the pt-br wordlist. I used this one
-(https://github.com/ulif/dadoware/blob/master/dadoware/wordlists/wordlist_pt-br.txt).
+(https://github.com/ulif/diceware/blob/master/diceware/wordlists/wordlist_pt-br.txt).
